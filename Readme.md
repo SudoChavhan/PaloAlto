@@ -208,7 +208,7 @@ config from cloud.resource where finding.type = 'Host Vulnerability' AND protect
 
 * When your lab is finished, please go to the page displaying your lab environment details, scroll to the bottom left, and click the **DELETE ON DEMAND LAB button** to delete all of the resources in your lab environment.
 
-![](./images/deleteLab01.png)
+![](./Images/DeleteLab.png)
    
 
 
