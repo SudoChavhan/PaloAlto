@@ -80,7 +80,7 @@ sudo python3 torghost.py -s
 
 >**Note**:- **You have to find your application server IP, also known as your target IP, which can be found on the lab environment details page and is your Ubuntu machine public IP.**
 
-![](./images/applicationServerIP01.png)
+![](./Images/HandsOn-Spring1.png)
 
 3.	In order to exploit and upload the shell, run the below command and provide target IP with your spring4shell vulnerable application target IP.
 
