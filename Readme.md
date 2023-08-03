@@ -36,7 +36,7 @@ Resources below have already been set up for you as part of the lab setup.
 > Note:- From your lab environment details page, as seen in the image below, you may **copy** the ssh command.
 <br>
 
-   ![](./images/loginKaliVM01.png)
+   ![](./Images/HandsOn-Spring2.png)
 
    **It's important to Update the server**
 
